@@ -1,0 +1,12 @@
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\bin\Debug\2110151033.exe.config
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\bin\Debug\2110151033.exe
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\bin\Debug\2110151033.pdb
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\2110151033.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\_2110151033.Form1.resources
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\_2110151033.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\2110151033.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\2110151033.exe
+c:\users\windows\documents\visual studio 2015\Projects\2110151033\2110151033\obj\Debug\2110151033.pdb
+I:\Pengcit\2110151033\2110151033\bin\Debug\2110151033.exe.config
+I:\Pengcit\2110151033\2110151033\obj\Debug\2110151033.exe
+I:\Pengcit\2110151033\2110151033\obj\Debug\2110151033.pdb

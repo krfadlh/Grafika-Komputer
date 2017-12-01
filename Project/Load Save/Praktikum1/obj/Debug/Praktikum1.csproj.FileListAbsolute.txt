@@ -1,0 +1,12 @@
+c:\users\windows\documents\visual studio 2015\Projects\Praktikum1\Praktikum1\bin\Debug\Praktikum1.exe.config
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\bin\Debug\Praktikum1.exe
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\bin\Debug\Praktikum1.pdb
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\obj\Debug\Praktikum1.csprojResolveAssemblyReference.cache
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\obj\Debug\Praktikum1.Properties.Resources.resources
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\obj\Debug\Praktikum1.csproj.GenerateResource.Cache
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\obj\Debug\Praktikum1.exe
+C:\Users\Windows\documents\visual studio 2015\Projects\praktikum1\Praktikum1\obj\Debug\Praktikum1.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Praktikum1\Praktikum1\obj\Debug\Praktikum1.Form1.resources
+C:\Users\Brandon\Documents\Project\Praktikum1\Praktikum1\bin\Debug\Praktikum1.exe.config
+C:\Users\Brandon\Documents\Project\Praktikum1\Praktikum1\obj\Debug\Praktikum1.exe
+C:\Users\Brandon\Documents\Project\Praktikum1\Praktikum1\obj\Debug\Praktikum1.pdb

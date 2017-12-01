@@ -1,0 +1,12 @@
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\bin\Debug\2110151033_06Maret2017.exe.config
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\_2110151033_06Maret2017.Form1.resources
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\_2110151033_06Maret2017.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\bin\Debug\2110151033_06Maret2017.exe
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\bin\Debug\2110151033_06Maret2017.pdb
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.exe
+c:\users\windows\documents\visual studio 2015\Projects\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.pdb
+C:\Users\Brandon\Documents\Project\2110151033_06Maret2017\2110151033_06Maret2017\bin\Debug\2110151033_06Maret2017.exe.config
+C:\Users\Brandon\Documents\Project\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.exe
+C:\Users\Brandon\Documents\Project\2110151033_06Maret2017\2110151033_06Maret2017\obj\Debug\2110151033_06Maret2017.pdb

@@ -1,0 +1,18 @@
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\bin\Debug\Arab.exe.config
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\bin\Debug\Arab.exe
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\bin\Debug\Arab.pdb
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.Form1.resources
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.exe
+c:\users\brandon\documents\visual studio 2017\Projects\Arab\Arab\obj\Debug\Arab.pdb
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\bin\Debug\Arab.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\bin\Debug\Arab.exe
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\bin\Debug\Arab.pdb
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.Form1.resources
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.Properties.Resources.resources
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.csproj.GenerateResource.Cache
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.exe
+C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Arab - Copy\Arab\obj\Debug\Arab.pdb

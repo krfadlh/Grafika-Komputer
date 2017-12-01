@@ -1,0 +1,12 @@
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\bin\Debug\IP_Praktikum2.exe.config
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\bin\Debug\IP_Praktikum2.exe
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\bin\Debug\IP_Praktikum2.pdb
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.Form1.resources
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.exe
+c:\users\windows\documents\visual studio 2015\Projects\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.pdb
+C:\Users\Brandon\Documents\Project\IP_Praktikum2\IP_Praktikum2\bin\Debug\IP_Praktikum2.exe.config
+C:\Users\Brandon\Documents\Project\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.exe
+C:\Users\Brandon\Documents\Project\IP_Praktikum2\IP_Praktikum2\obj\Debug\IP_Praktikum2.pdb

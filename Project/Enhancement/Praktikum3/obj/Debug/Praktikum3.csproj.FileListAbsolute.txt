@@ -1,0 +1,30 @@
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\bin\Debug\Praktikum3.pdb
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.Form1.resources
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+c:\users\brandon\documents\visual studio 2012\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\bin\Debug\Praktikum3.pdb
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.Form1.resources
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.Properties.Resources.resources
+C:\Users\Brandon\Documents\SEMESTER 4\Pengolahan Citra\TUGAS\Praktikum3\Praktikum3\obj\Debug\Praktikum3.csproj.GenerateResource.Cache
+G:\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+G:\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+G:\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\Windows\Documents\Visual Studio 2015\Projects\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\Brandon\Documents\Project\Praktikum3\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\Brandon\Documents\Project\Praktikum3\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\Brandon\Documents\Project\Praktikum3\Praktikum3\obj\Debug\Praktikum3.pdb
+C:\Users\Brandon\Documents\Project\Enhancement\Praktikum3\bin\Debug\Praktikum3.exe.config
+C:\Users\Brandon\Documents\Project\Enhancement\Praktikum3\obj\Debug\Praktikum3.exe
+C:\Users\Brandon\Documents\Project\Enhancement\Praktikum3\obj\Debug\Praktikum3.pdb

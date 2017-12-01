@@ -1,0 +1,4 @@
+﻿  morphing_2d.cpp
+c:\users\brandon\documents\visual studio 2017\projects\morphing\morphing\morphing_2d.cpp(29): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  Morphing.vcxproj -> C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Morphing\Debug\Morphing.exe
+  Morphing.vcxproj -> C:\Users\Brandon\Documents\Visual Studio 2017\Projects\Morphing\Debug\Morphing.pdb (Partial PDB)
